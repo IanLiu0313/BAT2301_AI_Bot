@@ -2407,22 +2407,33 @@ Ian Liu Department of Finance and Business Analytics Trinity UniversityBAT2301 -
 
 --- SOURCE: Wk1_L1.pdf ---
 BAT/ECON 2301 - Statistics for Business
-Lecture 1 Course Introduction and Syllabus
+Week 1 Course Introduction and Syllabus
 Ian Liu
 Trinity University
-01/15/2025
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 1 / 26
+Jan. 14 or 15, 2026
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 1 / 29
+About This Class
+BAT/ECON2301 - Statistics for Business and Economics
+Section 1: T/Th 12:45 PM - 2:00 PM in Dicke Music 347
+Section 2: T/Th 2:10 PM - 3:25 PM in Dicke Music 347
+Section 3: T/Th 3:35 PM - 4:50 PM in Dicke Music 347
+Section 4: M/W 1:05 PM - 2:20 PM in CSI 437
+3 credit course(will be a 4 credit course this fall or next spring, you are
+lucky!)
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 2 / 29
 About This Class
 Instructor: Ian Liu
 Email: yliu2@trinity.edu (NOT yliu or yliu1)
+I normally respond within a day
+Follow up if more than a day
 Phone: 210-999-7635
 Office: CGC416
-Office Hours: Tuesday/Thursday 4–5PM, Friday 2-4PM or by
+Office Hours: Monday(in-person) & Friday(online) 3PM-5PM or by
 appointment
-Join by Zoom: https://trinity.zoom.us/j/4090111710
-Email me in advance if you would like to attend my office hours via
-Zoom
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 2 / 26
+Join by Zoom: https://trinity.zoom.us/j/97421905426
+Email me in advance if you would like me to have additional office hours
+An AI agent is under development for our class, stay tuned
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 3 / 29
 About Me
 Arizona State University
 B.S. in Supply Chain Management
@@ -2430,10 +2441,10 @@ B.S. in Management Information Systems
 State University of New York – Binghamton
 M.S. in Industrial and Systems Engineering
 University of Virginia
-PhD(In Progress), don’t call me Dr. Liu, YET.
-ETC. Unknown :( Should be soon (What I’ve been telling my parents
-and in-laws)
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 3 / 26
+PhD(In Progress), don’t call me Dr. Ian, YET.
+Estimated Time of Completion: Unknown :(, but should be soon (What
+I’ve been telling my parents and in-laws)
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 4 / 29
 About Me
 Mountain biking
 Have always wanted to be a pilot
@@ -2441,43 +2452,70 @@ Favorite shows by ranking
 1 Homeland
 2 Billions
 3 Modern Family
-4 The Big Bang Theory and Young Sheldon
+4 The Big Bang Theory, and Young Sheldon
 5 Prison Break
 6 ?Yellowstone
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 4 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 5 / 29
 About Me
 Research Interests
 Machine learning for healthcare and public health
-Complex systems and systems science
-Modeling and simulation
+Complex systems modeling by using Agent Based Modeling approach
 My Teaching Style
 I do listen and revise my teaching styles and content based on the
 feedback received from students every semester
-Explain complex concepts with simple and intuitive examples
+This is a heavy math subject(No hard math, just tedious). So I try to
+explain complex concepts with simple and intuitive examples
 Want you to know why you are learning it
 Maximize the probability of landing a job or a job interview
 Some new stuff to be added to your resume
 Tips and possible interview questions for future job interviews
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 5 / 26
-A Quick Icebreaker
-Your name, year and major
-How was your break? Anything you’d like to share with the class?
-Have you taken any statistics/probability classes before?
-What would you like to learn from this course (expectations)?
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 6 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 6 / 29
 About This Class
 An introductory course on statistics with a focus on business
 applications
 Various statistical techniques within the realms of business and
 economics
 Data descriptions and their statistical significance and meanings
-Probability and distributions
+Probability and data distributions
 Sampling
+Inference
 Hypothesis testing
-Simple Linear Regression
-Possible interview questions for Data Science and Business Analytics jobs
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 7 / 26
-An Example - Engineering Approach
+Simple Linear Regression and prediction
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 7 / 29
+An Example - Traditional/Engineering Approach
+Figure 1: Mathematical Proof of Normal Distribution
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 8 / 29
+An Example - My Approach
+Let me ask you something:
+Do you have to be a mechanical engineer to be able to drive a car?
+Do you have to be a computer engineer to be able to use a computer?
+Do you have to be an electrical engineering to be able to use a power
+drill?
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 9 / 29
+An Example - My Approach
+Statistics is a practical subject, just like a tool
+The fundamental statistics is not a science subject like physics or
+mathematics
+Some statisticians/mathematicians may not agree with me on this
+statement
+Advanced statistics is a science.
+Treat it like a tool, as business mangers and analysts, you just need to
+know how to use it
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 10 / 29
+An Example - My Approach
+Figure 2: A Model is Just a Recipe
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 11 / 29
+An Example - My Approach
+Step 1: Collect Data & Calculate the Averages
+You collect the monthly returns for each stock over the past 12 months.
+Valero: 12 monthly returns varied from -2% to +3%.
+Apple: 12 monthly returns varied from -1% to +4%.
+You calculate the average monthly return for each stock. Let’s say:
+Valero had an average monthly return of 0.5%.
+Apple had an average monthly return of 1.0%.
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 12 / 29
+An Example - My Approach
+Step 1: Know the formula for t-test
 The t-test is used to determine if there is a significant difference
 between the means of two groups. The t-value is calculated using the
 formula:
@@ -2489,36 +2527,11 @@ n1
 n2
 Where ¯X1 and ¯X2 are the sample means,s 2 is the pooled sample variance,
 and n1 and n2 are the sample sizes.
-The p-value is then calculated based on this t-value and the degrees of
-freedom of the test. It represents the probability of observing a test
+The p − value is then calculated based on this t-value and the degrees
+of freedom of the test. It represents the probability of observing a test
 statistic as extreme as, or more extreme than, the observed value under
 the null hypothesis.
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 8 / 26
-An Example - My Approach
-Let me ask you something:
-Do you have to be a mechanical engineer to be able to drive a car?
-Do you have to be a electrical/computer engineer to be able to use a
-computer?
-Statistics is a practical implication/subject, just like a tool
-The fundamental statistics is not a science subject like physics or
-mathematics
-Some statisticians/mathematicians may disagree with me on this
-statement
-Advanced statistics is a science.
-Treat it like a tool, you just need to know how to use it
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 9 / 26
-An Example - My Approach
-Figure 1: A Model is Just a Recipe
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 10 / 26
-An Example - My Approach
-Step 1: Collect Data & Calculate the Averages
-You collect the monthly returns for each stock over the past 12 months.
-Valero: Monthly returns varied from -2% to +3%.
-Apple: Monthly returns varied from -1% to +4%.
-You calculate the average monthly return for each stock. Let’s say:
-Valero had an average monthly return of 0.5%.
-Apple had an average monthly return of 1.0%.
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 11 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 13 / 29
 An Example - My Approach
 Step 2: Use the t-test
 The t-test is a tool that will help you determine if the observed
@@ -2531,9 +2544,9 @@ The difference between the two averages (0.5% for Stock A and 1.0%
 for Stock B).
 The number of data points (12 months for each stock).
 The variability in monthly returns for each stock.
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 12 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 14 / 29
 An Example - My Approach
-Step 3: Analyze the Result
+Step 3: Analyze the result
 The t-test will provide a t-value and a p-value:
 The t-value measures the size of the difference relative to the variation
 in your sample data.
@@ -2546,59 +2559,61 @@ that Stock B genuinely had better performance over the past year.
 If the p-value is high (e.g., more than 0.05) would indicate that the
 difference in average returns might just be due to random fluctuations,
 and you can’t confidently assert that one stock outperformed the other.
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 13 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 15 / 29
 Syllabus and Course Management
 Course Site
 Syllabus and all the information related to the curse
-https://ianliu0313.github.io/BAT2301_Spring25/
+https://ianliu0313.github.io/BAT2301_Spring26/
 Canvas
-Assignments and their submissions
+Homeworks and their submissions
+Notes submissions
 Grades
 Announcements
-Q&A discussion
 DataCamp
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 14 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 16 / 29
 Textbooks and Tools
 Textbooks are NOT required to save you $$
-Statistics for Business & Economics by David R. Anderson, Dennis
-J. Sweeney, Thomas A. Williams, Jeffrey D. Camm, James J. Cochran,
-Michael J. Fry, and Jeffrey W. Ohlmann, published by Cengage.
-Statistics for Business and Economics by James T McClave, P
-George Benson and Terry T Sincich, published by Pearson.
+Statistics for Business & Economics by Anderson, Sweeney, Williams,
+Camm, etc., published by Cengage.
+Business Statistics and Analytics in Practice by Bowerman, Drougas,
+Duckworth etc., published by Pearson.
 Earlier versions are available and okay to use
 e-book or a physical copies are available for purchase
 A datacamp.com account
-A computer or a laptop with access to datacamp
-(Optional) Google Colab
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 15 / 26
+A computer or a laptop with access to Internet
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 17 / 29
 DataCamp
 This class is designed to be a traditional and classic statistics class
-Coding(R and Python) is essential and important
+However, coding/programming(R and Python) is a must-to-know skill
 We need a platform that can help us learn the most popular coding
 languages used in industry
-Offers hundreds of online classes with practices and assessments
+DataCamp offers hundreds of online classes with practices and
+assessments
 6 short courses need to be completed via DataCamp
 Each course is 1~2 hours long
-Finish them before the end of the semester(due date: 05/02/2025)
+Finish them before the end of the semester(due date: 05/10/2026)
 Earn 6 certificates upon completion(resume boosters)
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 16 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 18 / 29
 Join the Class on DataCamp
-An invitation link will be posted on Canvas via Announcements and
-course site here: https://ianliu0313.github.io/BAT2301_Spring25/
-Have the account created using your Trinity Email by next week
+An invitation link is posted on Canvas via Announcements and course
+site here: https://ianliu0313.github.io/BAT2301_Spring26/
+Create the account by using your Trinity Email by next week
 Join the class and learn about Python Programming
 It’s completely FREE for our class
 Nail it and earn the certificates!
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 17 / 26
+DO NOT WAIT UNTIL THE LATE NIGHT OF 05/09 TO GET
+STARTED, PLEASE!
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 19 / 29
 Evaluation Criteria
 Exams 1 10 %
 Exam 2 15 %
-Exam 3/Final Exam 20 %
+Exam 3/Final Exam 15 %
 Homework 30 %
-Class Attendance 10 %DataCamp 5 %
-5 Mini_Essays 10 %
+Problem Sets 15 %
+DataCamp 10 %
+Attendance/Quiz/Participation 5 %
 Grade Composition
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 18 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 20 / 29
 Evaluation Criteria
 Grade Distribution: Grades will be assigned using the following
 distribution:
@@ -2606,68 +2621,86 @@ A (93.0 – 100), A- (90.0 – 92.9)
 B+ (87.0 – 89.9), B (83.0 – 86.9), B- (80.0 – 82.9)
 C+ (77.0 – 79.9), C (73.0 – 76.9), C- (70.0 – 72.9)
 D+ (67.0 – 69.9), D (60.0 – 66.9)
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 19 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 21 / 29
 Exams(45%)
 3 Exams
 In-person in our classroom
-Paper or Online
-1 cheat sheet(single or double sided) allowed for the first TWO exams
-2 cheat sheets allowed for the final exam
+Lockdown browsers or the traditional paper exams?
+1 cheat sheet(single or double sided) is allowed
 A calculator
 Scratch papers and important statistics tables will be provided
 Exam 1(10%) & Exam 2(15%)
-75min
-20-25 questions
-All multiple choice, T/F and short answer questions
-Exam 3(20%)
-120 min
-35-40 questions
-All multiple choice, T/F and short answer questions
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 20 / 26
+75min w/ 20-25 multiple choice, T/F and short answer questions
+Common Final Exam(20%)
+120 min w/ 35-40 multiple choice, T/F and short answer questions
+Date, Time and Location TBA
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 22 / 29
 Homework(30%)
-9 Homework through Canvas
+11 Homework through Canvas
 Each homework has 10-15 questions
-2 lowest grades will be dropped
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 21 / 26
-In-class Participation/Class Attendance (10%)
+1 lowest grade will be dropped
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 23 / 29
+In-class Participation/Class Attendance (5%)
 Quizzes
+Attendance
 Notes submission by the end of a class day
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 22 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 24 / 29
 DataCamp Courses and Practice(5%)
 Introduction to Python
 Introduction to Statistics in Python
 Foundations of Probability in Python
-Sampling in Python
 Hypothesis Testing in Python
-Answer Statistics Interview Questions in Python
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 23 / 26
-5 Mini-Essays(10%)
-To help you understand why we must learn statistics and probability
-To help you learn how statistics and probability are the most essential
-foundations of data analysis and AI
-5 topics
-1 How TikTok and Instagram Predict What Content You’ll Like?
-2 How A/B Testing Enhances Marketing Strategies?
-3 How Large Language Models (LLMs) Use Statistics and Probability to
-Generate Natural Language Responses?
-4 How Tesla Vehicles Identify People and Objects Using Statistics and
-Machine Learning?
-5 How Quantitative Traders on Wall Street Make Millions in Seconds?
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 24 / 26
+Practicing Statistics Interview Questions in Python
+Introduction to AI Agents
+All Due by 05/10/2026.
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 25 / 29
 Syllabus and Course Management
 Course Site
 Syllabus and all the information related to the curse
-https://ianliu0313.github.io/BAT2301_Spring25/
+https://ianliu0313.github.io/BAT2301_Spring26/
 Canvas
 Assignments and their submissions
 Grades
 Announcements
 Q&A discussion
 DataCamp
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 25 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 26 / 29
 Probability is FUN!
 Movie 21: https://www.youtube.com/watch?v=0DpvqzPdXoc&t=7s
-Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business 01/15/2025 26 / 26
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 27 / 29
+Let’s Do A Quick Icebreaker - A Super Mini Team
+Research Project
+Activity: The 15-Minute Analyst
+The Mission: Form teams of 4–5. Pick one topic in the next slide and
+become experts in 15 minutes.
+Imagine you are pitching a technology to investors. You have 60 seconds
+to sell us on why the STATISTICS and PROBABILITY behind this tech
+makes it valuable.
+The Deliverable:
+1 You have 15 minutes to research on the topic you are interested in.
+2 1 or 2 persons from each group will give a 60-second quick summary to
+the class about the findings.
+3 Correctness and accuracy don’t matter.
+Key Question to Answer: What specific role do probability or statistics
+play in these topics/technologies/companies?
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 28 / 29
+Let’s Do A Quick Icebreaker - A Super Mini Team
+Research Project
+1 How do TikTok and Instagram use probability to predict what you’ll
+likely to watch next?
+2 How do Large Language Models(what ChatGPT and Gemini are based
+on) use probability to generate human-like answers?
+3 How do Tesla vehicles use statistics to distinguish a person from a stop
+sign, or other objects?
+4 How do “Quants”(Quantitative Traders) use probability and statistics
+to make millions in milliseconds?
+5 How do NBA or MLB teams use statistics to generate customized
+strategies for different games?
+6 How does Spotify use data clustering to define your “Music
+Personality”?
+7 Why does “The House” always win in the long run (Law of Large
+Numbers)?
+Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15, 2026 29 / 29
 
 --- END OF SOURCE ---
 
