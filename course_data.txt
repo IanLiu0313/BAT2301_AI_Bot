@@ -315,6 +315,221 @@ c. How large a sample is needed if the desired margin of error is 0.03?
 
 
 
+--- SOURCE: BAT2301_Practice_Exam.pdf ---
+BAT/ECON 2301 - Statistics for Business and Economics Practice Packet
+BAT/ECON 2301 Final Exam — Practice Packet
+Statistical Inference, Estimation, Hypothesis Testing & Regression
+Practice — 15 Questions
+Name: Section/Time:
+Date: Student ID:
+Instructions
+• This is a practice packet designed to help you prepare for the final exam.
+• There are 15 questions, sampled across all major topics covered on the exam.
+• Recommended time: 30–45 minutes (about 2–3 minutes per question).
+• Choose the best answer for each multiple-choice item.
+• Round probability answers to four decimal places when needed.
+• You may use a calculator and the z-table / t-table as needed.
+• Solutions and detailed explanations appear at the end of this packet.
+1. A researcher claims that a well-designed sample can produce results of “sufficiently high pre-
+cision” without surveying the entire population. Which statement best reflects the reasoning
+presented in the course materials?
+(A) A sample can never match the precision of a census and should only be used when cost is
+the only consideration.
+(B) Sampling is preferred because it is less time-consuming, less costly, and still capable of
+producing statistically precise results.
+(C) Sampling is preferred because it allows researchers to eliminate sampling error entirely.
+(D) Sampling should only be used when the population is very small and already perfectly
+enumerated.
+2. In a randomly selected sample of 30 university applicants, 20 indicated they wanted on-campus
+housing. The point estimate of the population proportion of applicants wanting on-campus
+housing is:
+(A) 0.30
+(B) 0.50
+(C) 0.67
+(D) 0.72
+1
+BAT/ECON 2301 - Statistics for Business and Economics Practice Packet
+3. Consider a population consisting of the values{18, 20, 22, 24}. All possible samples of sizen = 2
+(with replacement) are drawn. The mean of the sampling distribution of the sample mean
+equals:
+(A) 18
+(B) 19
+(C) 21
+(D) 24
+4. The production cost per handmade candle at a small company has meanµ= $8 and standard
+deviation σ= $3. If the company randomly samples 36 candles, the sampling distribution of
+the sample mean production cost has an approximate standard error of:
+(A) $3.00
+(B) $0.50
+(C) $0.25
+(D) $36.00
+5. If the population of a random variableX is already normally distributed, which of the following
+is TRUE?
+(A) A sample size of at least 25 is required for the sampling distribution of¯x to be normal.
+(B) The sampling distribution of the mean is normally distributed for any sample size.
+(C) The Central Limit Theorem does not apply because normality is already assumed.
+(D) The sampling distribution will be skewed unlessn> 100.
+6. A random sample of 100 observations yields¯x = 50 and the population standard deviation is
+σ= 10. Usingz0.025 = 1.96, the approximate 95% confidence interval forµis:
+(A) (48.04, 51.96)
+(B) (40.20, 59.80)
+(C) (49.80, 50.20)
+(D) (46.08, 53.92)
+7. A 95% confidence interval for the mean weekly hours worked is(36.2, 39.8). Which statement
+best interprets this interval?
+(A) 95% of all workers work between 36.2 and 39.8 hours per week.
+(B) There is a 95% probability that the next observed worker will work between 36.2 and 39.8
+hours.
+(C) If the sampling procedure were repeated many times, approximately 95% of the resulting
+intervals would contain the true population mean.
+(D) The sample mean is guaranteed to lie between 36.2 and 39.8 hours.
+2
+BAT/ECON 2301 - Statistics for Business and Economics Practice Packet
+8. Holding all else constant, the margin of error for a confidence interval forµ(withσknown) will:
+(A) Increase as the sample sizen increases.
+(B) Decrease as the confidence level increases.
+(C) Decrease as the sample sizen increases.
+(D) Remain unchanged regardless ofn or confidence level.
+9. Suppose a sample of sizen = 30 is drawn, and the population standard deviation is unknown.
+When constructing a 95% confidence interval forµ, a researcher should use:
+(A) z0.025 from the standard normal table withσin the formula.
+(B) t0.025, 29 from thet-table withs in the formula.
+(C) t0.025, 30 from thet-table withσin the formula.
+(D) Either z or t — the choice does not affect the interval.
+10. The margin of error in a confidence interval for a population proportion is given by:
+(A) zα/2
+√
+ˆp(1−ˆp)
+n
+(B) tα/2
+√
+ˆp(1−ˆp)
+n
+(C) zα/2
+σ√n
+(D) tα/2
+s√n
+11. A business travel magazine uses a rating scale from 0 to 10 and wants to classify an airport as
+“superior” only if the population mean rating exceeds 7. The appropriate hypotheses are:
+(A) H0 :µ≥7; Ha :µ<7
+(B) H0 :µ≤7; Ha :µ>7
+(C) H0 :µ= 7; Ha :µ̸= 7
+(D) H0 :µ>7; Ha :µ≤7
+12. A pharmaceutical company conducts a trial to determine whether a new drug is more effective
+than the current one (H0: no improvement;Ha: improvement). AType I error in this context
+would result in:
+(A) Approving a drug that does not actually improve outcomes.
+(B) Failing to approve a drug that genuinely improves outcomes.
+(C) Using the wrong test statistic for the analysis.
+(D) Making the correct decision.
+3
+BAT/ECON 2301 - Statistics for Business and Economics Practice Packet
+13. In a lower-tail test atα= 0.01, the computed test statistic isz =−2.67. Using the critical
+value approach, the decision is to:
+(A) Reject H0, becausez =−2.67≤−2.33.
+(B) Fail to rejectH0, becausez >−2.33.
+(C) Reject H0, becausez >0.
+(D) Fail to rejectH0, because the test statistic is negative.
+14. A small company records weekly advertising spendx (in thousands of dollars) and resulting
+sales y (in thousands of dollars) for four weeks:
+x 2 4 6 8
+y 3 7 8 14
+For this dataset, SST = 62, SSR = 57.8, and SSE = 4.2. The coefficient of determinationR2 is
+approximately:
+(A) 0.068
+(B) 0.677
+(C) 0.932
+(D) 1.000
+15. Which of the following is the best interpretation of anR2 value of 0.85 in a simple linear
+regression?
+(A) 85% of the time, the regression line correctly predicts the value ofy.
+(B) The slopeb1 equals 0.85.
+(C) About 85% of the variation in the dependent variabley is explained by the regression onx.
+(D) The correlation coefficient betweenx and y equals 0.85.
+END OF PRACTICE P ACKET
+4
+BAT/ECON 2301 - Statistics for Business and Economics Practice Packet
+Practice Packet — Solutions
+Detailed Explanations
+Quick Answer Key
+Q Ans T opic Q Ans T opic
+1 B Sampling vs. Census 9 B CI withσunknown (t)
+2 C Point Estimation (proportion) 10 A CI for a Proportion
+3 C Sampling Distribution Mean 11 B Setting upH0 / Ha
+4 B Standard Error 12 A Type I Error
+5 B Central Limit Theorem 13 A Critical Value Decision Rule
+6 A CI withσknown (z) 14 C R2 Computation
+7 C CI Interpretation 15 C R2 Interpretation
+8 C Margin of Error &n
+Detailed Explanations
+Q1 (B). The course materials list three advantages of sampling over a census: it is less time-
+consuming, less costly, and still capable of producing results with sufficiently high statistical pre-
+cision. Note that sampling does noteliminate sampling error — it simply accepts a small amount
+of it in exchange for efficiency.
+Q2 (C). ˆp = 20/30≈0.6667, which rounds to 0.67. The sample proportionˆp is the point estimator
+of the population proportionp.
+Q3 (C). A key property of the sampling distribution of¯x is that its mean equals the population
+mean: µ¯x =µ. For the values{18, 20, 22, 24}, µ= (18 + 20 + 22 + 24)/4 = 21.
+Q4 (B). Standard error = σ/√n = 3/
+√
+36 = 3/6 = $0.50. Note how increasing the sample size
+shrinks the standard error — this is the key insight behind the power of larger samples.
+Q5 (B). If the parent population is already normal, then the sampling distribution of¯x is normal
+for any sample size — no minimumn is required. The CLT is the backup theorem for when the
+population is not normal.
+Q6 (A). Margin of error= 1.96×10/
+√
+100 = 1.96×1 = 1.96. Therefore the 95% CI is50±1.96 =
+(48.04, 51.96).
+Q7 (C). The correct frequentist interpretation of a 95% CI:if we repeated the sampling procedure
+many times, approximately 95% of the resulting intervals would contain the true population mean.
+Options (A) and (B) are common misinterpretations — the CI is about a parameter, not about
+individual data values or future observations.
+Q8 (C). The margin of error formula iszα/2σ/√n. Increasing n enlarges the denominator√n,
+which shrinks the margin of error. In contrast,increasingthe confidence levelincreasesthe margin
+(larger zα/2).
+5
+BAT/ECON 2301 - Statistics for Business and Economics Practice Packet
+Q9 (B). When σis unknown, we use thet-distribution withn−1 = 29 degrees of freedom, and
+we must use the sample standard deviations (notσ) in the margin-of-error formula. Mixingt with
+σ(option C) orz with σwhen σis unknown (option A) are both incorrect.
+Q10 (A). The confidence interval for a proportion is based on the normal approximation:ˆp±
+zα/2
+√
+ˆp(1−ˆp)/n. Thet-distribution is used for means with unknownσ, not for proportions.
+Q11 (B). The alternative hypothesis reflects what the researcher is trying toestablish. Since the
+airport is designated “superior” only ifµ>7, we setHa :µ>7. The null is its logical complement:
+H0 :µ≤7.
+Q12 (A). A Type I error = rejecting a true null hypothesis. In this context,H0 says the drug
+does not improve outcomes; rejecting a trueH0 means approving a drug that in reality provides
+no improvement — a serious real-world mistake with safety and economic implications.
+Q13 (A). For a lower-tail test atα= 0.01, the critical value iszα=−2.33. The rejection rule is:
+rejectH0 if z≤−2.33. Since the observedz =−2.67 is indeed≤−2.33, we rejectH0.
+Q14 (C). R2 = SSR/SST = 57.8/62≈0.9323. Equivalently,R2 = 1−SSE/SST = 1−4.2/62≈
+0.9323. AnR2 this close to 1 indicates that advertising spend explains about 93% of the variation
+in sales for this data set.
+Q15 (C). R2 represents the proportion of total variation in the dependent variable y that is ex-
+plained by the regression model . Options (A) and (B) confuseR2 with prediction accuracy or the
+slope; option (D) confusesR2 with the correlationr (though R2 = r2 in simple linear regression,
+so they are related, not equal).
+Study Tips
+• Interpretation questions (Q7, Q15) are high-value and commonly missed. Memorize
+the standard language: CIs are about repeated sampling;R2 is about proportion of variation
+explained.
+• Know which distribution to use. z vs.t for means,z always for proportions. Theσknown
+/ unknown distinction drives this choice.
+• Set up hypotheses carefully . The alternative hypothesis is what you’re trying toprove; the
+null takes the complement (including the equality).
+• Type I vs. Type II. Type I = rejecting a trueH0 (false alarm). Type II = failing to reject a
+false H0 (missed signal).
+• Practice the regression computations. Know how to compute ¯x, ¯y, ∑(xi−¯x)(yi−¯y),∑(xi−¯x)2, thenb1, b0, andR2 in sequence.
+END OF SOLUTIONS
+6
+
+--- END OF SOURCE ---
+
+
+
 --- SOURCE: Wk2_L2.pdf ---
 BAT2301 - Statistics for Business
 Lecture 3: Descriptive Statistics
@@ -2706,6 +2921,483 @@ Ian Liu Trinity University BAT/ECON 2301 - Statistics for Business Jan. 14 or 15
 
 
 
+--- SOURCE: Wk14_L1.pdf ---
+BAT2301 – Statistics for Business
+Lecture 18: Simple Linear Regression
+Ian Liu
+Trinity University
+2026-04-22
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 1 / 31
+Announcement
+Do not forget about the Datacamp courses
+Homework 9 and Homework 10 available
+Complete the class climate survey to earn 0.5% Extra Credit
+Submit a screenshot of the completion page when done 2% 
+EC in total for 4 opportunities:
+Career Fair
+The additional Datacamp class
+Class climate survey
+A 15-question exam practice assignment(will be provided later 
+during the reading days)
+Ian
+Liu (Trinity University) BA
+T2301 – Statistics for Business 2026-04-22 2
+/ 31
+What Question Are We Trying to Answer?
+Does studying more hours really raise your GPA? By how much?
+When the temperature climbs, do ice cream sales climb with it?
+If a company spends an extra $10k on advertising, how many more
+units can it expect to sell?
+Do taller NBA players score more points per game?
+The big idea
+Simple linear regression is a tool for answering
+one-variable-predicts-another questions using real data.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 3 / 31
+What Simple Linear Regression Does for You
+Describes how two variables move together.
+Predicts a value of 𝑦 from a value of 𝑥.
+Quantifies the effect: “one unit more of 𝑥 is associated with how
+much more 𝑦?”
+Tests whether the relationship is even real, or just noise.
+Vocabulary.
+Dependent variable 𝑦: what we want to predict or explain. Also
+called the response or outcome.
+Independent variable 𝑥: what we use to do the predicting. Also
+called the predictor, explanatory variable, or feature.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 4 / 31
+Why Is It Called “Regression”? A Fun Bit of History
+In 1886, Francis Galton studied the heights
+of ∼ 200 families.
+He noticed something odd:
+Tall parents tended to have children
+shorter than themselves .
+Short parents tended to have children
+taller than themselves .
+He called this “ regression toward
+mediocrity” (today: regression to the
+mean).
+Modern takeaway: a rookie having a career
+season is often followed by a worse one —
+not because they got bad, but because of
+regression to the mean.
+66 68 70 72
+Parent height (in)
+62
+64
+66
+68
+70
+72
+74Child height (in)
+Regression (slope = 0.56)
+child = parent (slope = 1)
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 5 / 31
+Correlation vs. Regression
+Correlation
+Measures strength and direction
+of linear association.
+One number: 𝑟 ∈ [−1, +1].
+Symmetric:
+corr(𝑥, 𝑦) = corr(𝑦, 𝑥).
+Says nothing about causation.
+Regression
+Models the shape of the
+relationship: a line.
+Gives an equation: ̂ 𝑦 = 𝛽0 + 𝛽1𝑥.
+Asymmetric: 𝑦 on 𝑥 ≠ 𝑥 on 𝑦.
+Used for prediction and inference.
+Rule of thumb
+Correlation tells you whether two things move together. Regression tells
+you how one moves with the other, and lets you predict.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 6 / 31
+Warning: Correlation ≠ Causation
+These pairs are all strongly correlated over several decades:
+U.S. per capita cheese consumption vs. number of people who died
+tangled in their bedsheets
+Nicolas Cage movie appearances vs. number of swimming pool
+drownings
+Ice cream sales vs. shark attacks
+U.S. spending on science vs. suicides by hanging
+Two common culprits
+Lurking variable : a third cause (e.g., summer heat drives both ice
+cream sales and swimming, hence shark attacks).
+Coincidence: with enough variables, some will accidentally correlate.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 7 / 31
+The Simple Linear Regression Model
+𝑦 = 𝛽 0 + 𝛽1𝑥 + 𝜀
+𝛽0 — the intercept (population 𝑦-intercept). Mean of 𝑦 when 𝑥 = 0.
+𝛽1 — the slope (population slope coeﬀicient). Mean change in 𝑦 per
+1-unit change in 𝑥.
+𝜀 — the error term . Captures everything we didn’t measure:
+randomness, omitted variables, measurement noise.
+We never know 𝛽0 and 𝛽1 exactly — those are population parameters. We
+estimate them from a sample and write the fitted equation :
+̂ 𝑦 = 𝑏0 + 𝑏1𝑥 ( some books use ̂𝛽0, ̂𝛽1).
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 8 / 31
+Anatomy of a Fitted Regression
+0 2 4 6 8 10
+x
+3
+4
+5
+6
+7y
+Intercept 0 = 2.38
+Slope 1 = 0.42
+Residual ei = yi yi
+Observed (xi, yi)
+y = 2.38 + 0.42x
+The fitted line is our best guess for the average of 𝑦 at each 𝑥. The vertical gaps
+are residuals: 𝑒𝑖 = 𝑦 𝑖 − ̂ 𝑦𝑖.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 9 / 31
+How Do We Pick “The” Line?
+0 2 4 6 8 10
+x
+2
+4
+6
+8
+10y
+Many possible lines...
+0 2 4 6 8 10
+x
+2
+4
+6
+8
+10y
+...only one minimizes e2
+i
+Infinitely many lines could go through a cloud of points.
+We need a criterion for “best. ”
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 10 / 31
+Ordinary Least Squares (OLS)
+The rule: pick 𝑏0, 𝑏1 to minimize the sum of squared residuals:
+SSE(𝑏0, 𝑏1) =
+𝑛
+∑
+𝑖=1
+(𝑦𝑖 − 𝑏0 − 𝑏1𝑥𝑖)
+2
+.
+Why this criterion?
+Big errors get punished much more than small ones.
+The math is clean: differentiate, set to zero, solve — one unique
+answer.
+It ties directly to the variance of the normal distribution (which you
+already know).
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 11 / 31
+Why Squared Errors, Not Absolute?
+3
+ 2
+ 1
+ 0 1 2 3
+Residual e
+0
+2
+4
+6
+8Penalty
+|e|  (absolute)
+e2  (squared)
+|𝑒| treats a residual of 3 as 3 ×
+worse than 1.
+𝑒2 treats a residual of 3 as 9×
+worse than 1.
+Squaring forces the line to care
+about outliers.
+Squaring is differentiable
+everywhere; | ⋅ | has a kink at 0 ⇒
+harder math.
+You can do “least absolute deviations”
+regression — it’s called LAD or quantile
+regression. But OLS is the default for
+good reasons.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 12 / 31
+The Formulas for 𝑏0 and 𝑏1
+Minimizing SSE gives closed-form answers (no iteration needed):
+𝑏1 = ∑
+𝑛
+𝑖=1(𝑥𝑖 − ̄ 𝑥)(𝑦𝑖 − ̄ 𝑦)
+∑
+𝑛
+𝑖=1(𝑥𝑖 − ̄ 𝑥)2 𝑏0 = ̄ 𝑦 − 𝑏 1 ̄ 𝑥.
+Two facts worth remembering:
+The fitted line always passes through ( ̄ 𝑥, ̄ 𝑦).
+The slope is a ratio: “how 𝑥 and 𝑦 co-vary” over “how much 𝑥 varies. ”
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 13 / 31
+An Example: Ice Cream Sales vs. Temperature
+A vendor at Brackenridge Park recorded sales on 20 randomly chosen days:
+𝑥 = daily high temperature in °F
+𝑦 = total ice cream sales that day ($)
+60 70 80 90
+Daily high temperature (°F)
+200
+300
+400
+500Ice cream sales ($)
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 14 / 31
+Setting Up the Hand Calculation
+The first task is always the same: compute ̄ 𝑥, ̄ 𝑦, and the two sums.
+̄ 𝑥 =∑ 𝑥𝑖
+𝑛 ̄ 𝑦 =∑ 𝑦𝑖
+𝑛
+Then for each row of data, compute (𝑥𝑖 − ̄ 𝑥), (𝑦𝑖 − ̄ 𝑦), their product, and
+(𝑥𝑖 − ̄ 𝑥)2.
+For the ice cream data:
+̄ 𝑥 = 78.85°F, ̄ 𝑦 = $375.50
+In practice: do it once by hand to see the machinery, then let Python or R
+do the arithmetic.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 15 / 31
+Fit and Interpret
+Applying the formulas to the 20 ice cream days:
+𝑏1 = ∑(𝑥𝑖 − ̄ 𝑥)(𝑦𝑖 − ̄ 𝑦)
+∑(𝑥𝑖 − ̄ 𝑥)2 ≈ 8.60, 𝑏 0 = ̄ 𝑦 − 𝑏1 ̄ 𝑥 ≈ −302.74.
+̂ 𝑦 = −302.74 + 8.60 𝑥.
+How to read this:
+Slope: each additional °F is associated with about $8.60 more in
+sales.
+Intercept: at 0°F, predicted sales are $-302.74. ” That’s nonsense —
+0°F is wildly outside our data range ( extrapolation). The intercept is
+a mathematical anchor , not always a real-world quantity.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 16 / 31
+The Same Fit from Python (statsmodels)
+import pandas as pd
+import statsmodels.api as sm
+df = pd.read_csv("icecream.csv") # columns: temp_F, sales
+X = sm.add_constant(df["temp_F"])
+model = sm.OLS(df["sales"], X).fit()
+print(model.summary())
+Term Estimate Std. Error 𝑡-statistic 𝑝-value
+Intercept ( 𝛽0) -302.736 17.844 -16.966 0.0000
+Temperature (𝛽1) 8.602 0.224 38.351 0.0000
+𝑛 = 20, 𝑅2 = 0.988, Residual SE = 10.62, 𝐹 = 1470.79 (𝑝 = 1.03𝑒 − 18)
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 17 / 31
+Using the Model to Predict
+Tomorrow’s forecast says 85°F. How much ice cream will we sell?
+̂ 𝑦 = −302.74 + 8.60 × 85 ≈ $428.
+A few cautions before you bank on that:
+85°F is inside the observed range (58–96°F). ￿
+The predicted value is a point estimate — actual sales will vary
+around it.
+Real sales depend on many things the model ignores: weekday vs
+weekend, rain, local events.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 18 / 31
+Extrapolation: Don’t Do It
+60 80 100 120 140
+Daily high temperature (°F)
+200
+300
+400
+500
+600
+700
+800
+900Ice cream sales ($) At 130°F , the model predicts booming sales.
+Reality: the ice cream (and customers) have melted.
+Observed data
+Fitted line (within data)
+Extrapolation (beware!)
+At 130°F the model happily predicts over $800. In reality, customers stay home
+and the ice cream is a puddle. The model only knows what you showed it.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 19 / 31
+“All Models Are Wrong, But Some Are Useful”
+“All models are wrong, but some are useful. ”
+— George E. P. Box (statistician, 1976)
+The simple linear regression is a simplification of reality. That’s not a bug
+— that’s the point.
+A useful model captures the dominant signal.
+A useful model leaves out noise we don’t need.
+A useful model is honest about where it fails.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 20 / 31
+Anscombe’s Quartet: Always Plot Your Data
+These four datasets have identical: ̄ 𝑥, ̄ 𝑦, variances, correlation, regression
+line, and 𝑅2.
+2.5
+5.0
+7.5
+10.0
+12.5y
+Dataset I: y = 3.00 + 0.50x, R2 = 0.67
+ Dataset II: y = 3.00 + 0.50x, R2 = 0.67
+5 10 15 20
+x
+2.5
+5.0
+7.5
+10.0
+12.5y
+Dataset III: y = 3.00 + 0.50x, R2 = 0.67
+5 10 15 20
+x
+Dataset IV: y = 3.00 + 0.50x, R2 = 0.67
+Statistician F. J. Anscombe (1973) built these to make a point: summary statistics can
+lie. Plot first, fit second.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 21 / 31
+Goodness of Fit: 𝑅2
+We partition total variability in 𝑦 into explained vs. unexplained:
+∑(𝑦𝑖 − ̄ 𝑦)2
+⏟ ⏟ ⏟ ⏟ ⏟
+SST (total)
+= ∑( ̂ 𝑦 𝑖 − ̄ 𝑦)2
+⏟ ⏟ ⏟ ⏟ ⏟
+SSR (explained)
++ ∑(𝑦 𝑖 − ̂ 𝑦𝑖)2
+⏟⏟⏟⏟⏟
+SSE (residual)
+𝑅2 = SSR
+SST = 1 − SSE
+SST ∈ [0, 1]
+𝑅2 = 0.988 for the ice cream data ⇒ about 98.8% of the variation in
+sales is explained by temperature. Very strong.
+𝑅2 = 0 ⇒ the line is no better than predicting ̄ 𝑦every time.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 22 / 31
+𝑅2, Visually
+2 4 6 8
+x
+4
+6
+8y
+SST: (yi y)2
+0 2 4 6 8
+x
+SSR: (yi y)2
+0 2 4 6 8
+x
+SSE: (yi yi)2
+Left: how far each 𝑦𝑖 sits from ̄ 𝑦(total). Middle: how much of that the line
+accounts for (explained). Right: what’s left over (residual).
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 23 / 31
+𝑅2 Is Context-Dependent
+High 𝑅2 is not automatically “good” and low 𝑅2 is not automatically
+“bad. ”
+Physics lab — falling objects, voltage vs current: 𝑅2 = 0.99 is
+routine; anything less suggests a broken apparatus.
+Predicting human behavior — stock returns, consumer spending,
+election turnout: 𝑅2 = 0.20 can be a major finding.
+High 𝑅2 on 5 data points is meaningless. Low 𝑅2 on a million data
+points can still reveal a real effect.
+Also:
+𝑅2 never decreases when you add more predictors, even garbage ones.
+That’s why we use adjusted 𝑅2 for multi-predictor models (later course).
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 24 / 31
+Is the Relationship Real? Testing 𝛽1
+The most important question for any regression is:
+𝐻0 ∶ 𝛽 1 = 0 vs. 𝐻1 ∶ 𝛽 1 ≠ 0.
+Under 𝐻0, 𝑥 has no linear effect on 𝑦. The test uses
+𝑡 = 𝑏1 − 0
+SE(𝑏1),
+with 𝑛 − 2 degrees of freedom.
+Ice cream example: 𝑡 = 38.35 , 𝑝 < 0.0001. Reject 𝐻0: temperature is
+meaningfully associated with sales.
+Same test exists for 𝛽0, but it’s rarely the interesting question — the intercept is
+often outside the data range.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 25 / 31
+The Four Assumptions: L-I-N-E
+OLS gives unbiased estimates and honest 𝑝-values only when the following
+hold:
+L – Linearity The true relationship between 𝑥 and 𝑦 is a straight line.
+I – Independence Observations (residuals) are independent of each other.
+N – Normality of residuals Residuals are approximately normally
+distributed.
+E – Equal variance Residuals have constant spread across all values of 𝑥
+(“homoscedasticity”).
+Aside: an error is the unobservable deviation from the population line; a residual
+is the observable deviation from the fitted line. Residuals are our window into the
+errors.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 26 / 31
+Residual Plots: Your First Diagnostic
+Plot residuals ( 𝑦𝑖 − ̂ 𝑦𝑖) against fitted values ( ̂ 𝑦𝑖). You want no pattern.
+5.0 7.5 10.0 12.5
+Fitted y
+1
+0
+1
+2
+Residual
+Ideal: random scatter
+5.0 7.5 10.0 12.5 15.0
+Fitted y
+2
+0
+2
+4
+Heteroscedasticity: fan shape
+3 4 5
+Fitted y
+2
+0
+2
+4
+Nonlinearity: a curve
+Left: healthy. Middle: variance grows with ̂ 𝑦— violates “E” . Right: a hidden
+curve — violates “L” . A residual plot is the cheapest, most informative thing
+you can produce.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 27 / 31
+Types of Relationships Linear Regression Can (and
+Can’t) Handle
+x
+y
+Strong positive linear
+x
+y
+Strong negative linear
+x
+y
+Weak linear
+x
+y
+Nonlinear (curvilinear)
+x
+y
+Nonlinear (exponential)
+x
+y
+No relationship
+The line fitter will dutifully give you an equation for any of these. Only the top
+row is actually honest — for the bottom row you need a different model
+(polynomial, log-transform, etc.).
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 28 / 31
+Team Exercise: Salesperson Experience
+A sample of 10 sales representatives:
+Salesperson Years of experience (𝑥) Annual sales $’000s (𝑦)
+1 1 80
+2 3 97
+3 4 92
+4 4 102
+5 6 103
+6 8 111
+7 10 119
+8 10 123
+9 11 117
+10 13 136
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 29 / 31
+Team Exercise: Your Tasks
+1 Develop an estimated regression equation predicting annual sales from
+years of experience.
+2 Use your equation to predict annual sales for a salesperson with 9
+years of experience.
+3 Does the intercept have a sensible real-world meaning here? Why or
+why not?
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 30 / 31
+Key Takeaways
+1 Simple linear regression fits 𝑦 = 𝛽 0 + 𝛽1𝑥 + 𝜀 to data by minimizing
+squared residuals.
+2 The slope 𝛽1 is the main thing you interpret. The intercept 𝛽0 is
+often an extrapolation.
+3 Always plot your data first. Anscombe’s quartet.
+4 Correlation ≠ causation. Always.
+5 Never extrapolate far beyond your data’s range.
+6 𝑅2 measures explained variance. It’s context-dependent; don’t chase
+it blindly.
+7 Check the L-I-N-E assumptions before trusting your 𝑝-values.
+8 “All models are wrong, but some are useful. ” Build useful ones.
+Ian Liu (Trinity University) BAT2301 – Statistics for Business 2026-04-22 31 / 31
+
+--- END OF SOURCE ---
+
+
+
 --- SOURCE: Section4_Schedule.csv ---
 ﻿Week #,Class Date,Topics,Attendance,Problem Set
 Week_1,"Wednesday, January 14, 2026","Course Introduction, Syllabus",N/A,
@@ -2740,7 +3432,7 @@ Week_15,"Wednesday, April 22, 2026",Using Python for Linear Regression and Any S
 Week_16,"Monday, April 27, 2026",DataCamp Q&A,N/A,
 Week_16,"Wednesday, April 29, 2026",Final Exam Review,N/A,
 Week_17,"Monday, May 4, 2026",Reading  Days - No Class - Office Hours Available,N/A,
-Common Final Exam ,"Thursday, May 7, 3:30–6:30 p.m.(Tentative)",Final Exam Location TBA,N/A,
+Common Final Exam ,"Thursday, May 7, 3:30–6:30 p.m.",DH 104/DH 108,N/A,
 --- END OF SOURCE ---
 
 
@@ -3407,7 +4099,7 @@ Week_15,"Thursday, April 23, 2026",Using Python for Linear Regression and Any St
 Week_16,"Tuesday, April 28, 2026",DataCamp Q&A,N/A,
 Week_16,"Thursday, April 30, 2026",Final Exam Review,N/A,
 Week_17,"Tuesday, May 5, 2026",Reading  Days - No Class - Office Hours Available,N/A,
-Common Final Exam ,"Thursday, May 7, 3:30–6:30 p.m.(Tentative)",Final Exam Location TBA,N/A,
+Common Final Exam ,"Thursday, May 7, 3:30–6:30 p.m.",DH 104/DH 108,N/A,
 --- END OF SOURCE ---
 
 
@@ -4437,6 +5129,258 @@ P(F ) = 36/1200
 Thus, because P(A|M) > P(A|F ), or 0.3 > 0.15, the analysis supports
 the female officers’ argument.
 Ian Liu Department of Fin&BA Trinity UniversityBAT2301 - Statistics for Business 26/26
+
+--- END OF SOURCE ---
+
+
+
+--- SOURCE: Intro_To_Python.pdf ---
+Introduction to
+Python
+The world's most versatile programming language
+A  H a n d s - O n  L e c t u r e
+Why Python?
+Simple & Readable
+Clean syntax that feels like English — less time 
+debugging, more time solving.
+Open & Community-Driven
+Free, open-source, and backed by millions of 
+developers and thousands of libraries.
+Rapid to Build With
+Write an idea in minutes. Perfect for prototyping, 
+experimenting, and iterating fast.
+Multi-Paradigm & Flexible
+Supports object-oriented, procedural, and 
+functional programming — your style, your rules.
+★ Python lets you focus on the idea — not the language.
+What Can Python Do?
+Data Analytics
+Analyze, visualize, and derive insights 
+from data.
+Machine Learning
+Build models for prediction, 
+classification, clustering.
+AI & Deep Learning
+The language behind ChatGPT, self-
+driving cars, and more.
+Web Development
+Power websites and APIs with Django, 
+Flask, FastAPI.
+Automation
+Automate spreadsheets, emails, files, 
+and daily tasks.
+Scientific Computing
+Run simulations and research used in 
+every STEM field.
+From spreadsheet scripts to neural networks — one language does it all.
+So Why Not C++ or Java?
+C++
+Est. 1985  •  The Powerhouse
+#include <iostream>
+int main() {
+std::cout << "Hello!";
+return 0;
+}
+✓ Blazing fast, direct memory control
+✗ Verbose, complex syntax, steep 
+learning curve
+Java
+Est. 1995  •  The Enterprise Workhorse
+public class Main {
+public static void main(
+String[] args) {
+System.out.println("Hi!");
+}
+}
+✓ Cross-platform, mature ecosystem
+✗ Lots of boilerplate for simple tasks
+Python
+Est. 1991  •  The Everyday Hero
+# That's it!
+print("Hello!")
+✓ Readable, concise, huge library 
+ecosystem
+✗ Slower than C++ (but "good enough" 
+for most tasks)
+Same program, Python uses ~10× fewer lines — and reads like English.
+Python's Meteoric Rise
+0
+5
+10
+15
+20
+25
+30
+35
+2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+Search share (%)
+Python
+Java
+C/C++
+R
+#1
+most popular language today
+3.6×
+growth in share
+since 2005
+Source: PYPL Popularity of Programming Language Index (approximate)
+A Real Interview Question
+Given two arrays, how do you find the elements they share?
+(e.g., A = [1, 2, 3, 4, 5]    B = [0, 1, 3, 7]    →    [1, 3])
+A = [1,2,3,4,5] B = [0,1,3,7]?
+Over the next 5 slides, we'll solve this 5 different ways →
+Approach I — Nested Loops
+I
+B R U T E  F O R C E
+T H E  I D E A
+Compare every element in A with 
+every element in B.
+approach_I.py
+# Assign the values to two lists, A and B
+A = [1, 2, 3, 4, 5]
+B = [0, 1, 3, 7]
+# Create an empty list to store common elements
+intersection = []
+# Iterate through every element in list A
+# and compare it with every element in list B
+for a in A:
+for b in B:
+if a == b and a not in intersection:
+intersection.append(a)
+print(intersection)   # Output: [1, 3]
+I II III IV V
+Takeaway: Works, but slow — O(n × m) comparisons.
+Approach II — Single Loop with in
+II
+C L E A N E R
+T H E  I D E A
+Let Python do the inner search for 
+us.
+approach_II.py
+A = [1, 2, 3, 4, 5]
+B = [0, 1, 3, 7]
+intersection = []
+# Iterate through each element in list A
+for element in A:
+# Check if it's in B and not already added
+if element in B and element not in intersection:
+intersection.append(element)
+print(intersection)   # Output: [1, 3]
+I II III IV V
+Takeaway: Cleaner code — still O(n × m) under the hood.
+Approach III — Using a Set for Speed
+III
+F A S T E R
+T H E  I D E A
+Sets use a hash table — lookups 
+are near-instant.
+approach_III.py
+A = [1, 2, 3, 4, 5]
+B = [0, 1, 3, 7]
+# Convert list A to set for O(1) lookup
+# Sets use a hash table to store elements
+set_a = set(A)
+intersection = []
+# Loop through each element in list B
+for element in B:
+if element in set_a:
+intersection.append(element)
+print(intersection)   # Output: [1, 3]
+I II III IV V
+Takeaway: Now O(n + m) — dramatically faster on big data.
+Approach IV — Wrap It in a Function
+IV
+R E U S A B L E
+T H E  I D E A
+Package your logic — call it 
+anywhere, anytime.
+approach_IV.py
+# A function that takes two lists and returns
+# their intersection
+def get_array_intersection(a, b):
+set_a = set(a)
+intersection = []
+for element in b:
+if element in set_a:
+intersection.append(element)
+return intersection
+# ----- RUN THE CODE -----
+A = [1, 2, 3, 4, 5]
+B = [0, 1, 3, 7]
+result = get_array_intersection(A, B)
+print(result)   # Output: [1, 3]
+I II III IV V
+Takeaway: Functions = reusable, testable, sharable logic.
+Approach V — Set Intersection (One-Liner)
+V
+P Y T H O N I C
+T H E  I D E A
+Python has this built in. Use it.
+approach_V.py
+# Python's built-in set intersection does it all
+def get_array_intersection(a, b):
+return list(set(a) & set(b))
+# ----- RUN THE CODE -----
+A = [1, 2, 3, 4, 5]
+B = [0, 1, 3, 7]
+result = get_array_intersection(A, B)
+print(result)   # Output: [1, 3]
+I II III IV V
+Takeaway: One line does it all — readable, fast, Pythonic.
+Congratulations — You Just Learned…
+A Real Interview Question
+A classic coding problem used at top 
+tech firms.
+Python's Essential Syntax
+Lists, loops, conditionals, sets, and 
+functions — the building blocks of 
+every program.
+How to Optimize Code
+From brute force to one-liner — the 
+thought process behind making code 
+faster and cleaner.
+You're officially a Python programmer!
+Python Is Everywhere
+From Netflix's recommendation engine to NASA's Mars rovers, Python is behind it all.
+Finance
+ Healthcare
+ Aerospace
+ Gaming
+Cybersecurity
+ Research
+ Banking
+ Cloud & Web
+AI & Robotics
+ Biometrics
+ Analytics
+ Automation
+Learn Python once — unlock doors in every field.
+Are You Afraid of
+ChatGPT?
+Don't be. Because GPT means Generative Pre-Trained.
+Getting Started — Let's Write Some Python
+No install needed — everything runs in your browser at colab.research.google.com
+1
+ Open Google Colab
+In your browser, go to colab.research.google.com
+and sign in with any Google account.
+2
+ Upload the Notebook
+Click File  ▸ Upload notebook, then select the 
+Python_Stats_Lab.ipynb file.
+3
+ Run Cells Top → Bottom
+Click the 
+ play button on each cell, or press Shift + 
+Enter. The first cell installs packages (~15 sec).
+4
+ Type a Stock Ticker
+On the stock cell, type a ticker like AAPL, TSLA, 
+NVDA and hit Enter — or leave blank for defaults.
+Tip: Run the cells in order — each one builds on the libraries loaded earlier.
+Thank
+You!
+Questions? Let's open the notebook and start coding.
 
 --- END OF SOURCE ---
 

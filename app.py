@@ -2,6 +2,7 @@
 # Course Agent for BAT2301
 # Framework developed and implemented by Ian Liu in 2026
 # Ian Liu, faculty at Trinity University, SATX
+# Data cleaning and wrangling, RAG and database code no need to upload
 # All rights reserved.
 # Do not copy, use, or distribute this code 
 # without express written permission.
